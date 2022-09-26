@@ -4,7 +4,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wolfis21&theme=black-ice&locale=es)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfis21)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfis21&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfis21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wolfis21/wolfis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

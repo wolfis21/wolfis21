@@ -4,9 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wolfis21&theme=black-ice&locale=es)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfis21)](https://github.com/anuraghazra/github-readme-stats)
-
-[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=wolfis21&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfis21&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfis21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

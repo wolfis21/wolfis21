@@ -1,6 +1,6 @@
 # 💫 >Hi 👋, I'm Isaac Saado
 <h3 align="center">A passionate Full-Stack developer from Venezuela</h3>
-🔭 I’m currently working on System_transports and CompilerOnline<br><br>🌱 I’m currently learning Laravel, Angular, Django, etc<br><br>💬 Ask me about C, C++, php, js, sql, html, css, go and python.<br><br>📫 How to reach me isaacsaado69@gmail.com
+🔭 I’m currently working on System_transports and CompilerOnline<br><br>🌱 I’m currently learning Laravel, Angular, Django, etc<br><br>📫 How to reach me isaacsaado69@gmail.com
 
 
 ## 🌐 Socials:
@@ -18,12 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wolfis21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wolfis21&icon=7&color=1)](https://visitcount.itsvg.in)

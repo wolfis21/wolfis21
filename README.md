@@ -1,6 +1,6 @@
 # 💫 >Hi 👋, I'm Isaac Saado
 <h3 align="center">A passionate Full-Stack developer from Venezuela</h3>
-🔭 I’m currently working on System_transports and CompilerOnline<br><br>🌱 I’m currently learning Laravel, Angular, Django, etc<br><br>📫 How to reach me isaacsaado69@gmail.com
+📫 How to reach me isaacsaado69@gmail.com
 
 
 ## 🌐 Socials:
